@@ -1,5 +1,7 @@
 # glosario-dasp
 glosario para el modulo de DASP
+
+
 Digitalización:
 Paso de información y procesos analógicos (papel, tareas manuales) a formato digital. Es el primer paso técnico, sin cambiar necesariamente la forma de trabajar.
 
